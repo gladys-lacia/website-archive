@@ -1,0 +1,2 @@
+// JavaScript intentionally minimal
+
